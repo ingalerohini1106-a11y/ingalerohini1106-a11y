@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Rohini Ingale 👋
+# Hi, I'm Rohini Ingale 
 
 ### Computer Science Student | Java Full Stack Developer
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 👩‍💻 Who I Am
+##  Who I Am
 
 ```ts
 const rohiniIngale = {
@@ -41,7 +41,7 @@ const rohiniIngale = {
 };
 ```
 
-## 🚀 Featured Project
+##  Featured Project
 
 ### AI-Based Government Complaint Portal and Resolution System
 
@@ -61,7 +61,7 @@ const rohiniIngale = {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 <p>
@@ -90,7 +90,7 @@ const rohiniIngale = {
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -105,7 +105,7 @@ const rohiniIngale = {
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
 
@@ -115,7 +115,7 @@ const rohiniIngale = {
 
 ---
 
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
@@ -125,7 +125,7 @@ const rohiniIngale = {
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
